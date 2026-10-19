@@ -1,11 +1,11 @@
-:HL["/portfolio-preview/_next/static/chunks/1zb-b-21z7xfp.css","style"]
+:HL["/portfolio-preview/_next/static/chunks/29opnq5r6cde5.css","style"]
 :HL["/portfolio-preview/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio-preview/_next/static/media/7ebf22b5a21034f8-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio-preview/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio-preview/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio-preview/_next/static/chunks/3fabe9q2b4jeb.css","style"]
-:HL["/portfolio-preview/_next/static/chunks/290m7b4jzyllq.css","style"]
+:HL["/portfolio-preview/_next/static/chunks/0-_79q2-z004s.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"inflation-profitability","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"research","h":96,"c":"$Q2"}]]
-0:{"b":"m-OleAFLirHXzI2kdXKlG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KBRgqV-yEP8zV_SCZYdzu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
