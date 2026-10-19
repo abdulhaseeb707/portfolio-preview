@@ -6,4 +6,4 @@
 :HL["/portfolio-preview/_next/static/chunks/3h_ilik-54d95.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"cv","h":96,"c":"$Q2"}]]
-0:{"b":"S-ur94ohqVKXUIGVTvq1K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6GXA_JYeZOqmqziPKlGAn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
