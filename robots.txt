@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /academia/
-Disallow: /projects/
-
-Sitemap: https://abdulhaseeb707.github.io/sitemap.xml
